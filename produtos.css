@@ -1,0 +1,36 @@
+header {
+    background: #BBBBBB;
+    padding: 20px 0;
+}
+
+.logo-marca {
+    width: 28%;
+}
+
+.caixa {
+    position: relative;
+    width: 940px; /* Resolução padrão Padrão*/ 
+    margin: 0 auto; /* usado para alinhar uma div ao centro */
+}
+
+nav{
+    position: absolute;
+    top: 110px;
+    right: 0px;
+}
+
+nav li{
+    display: inline;   
+    margin: 0 0 0 15px; /* margin-left: 15px;*/
+    
+}
+
+nav a {
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+
+}
+
